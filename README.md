@@ -1,8 +1,19 @@
 # Hi there 👋
 
-- 🔭 **I'm a Web Developer**
-- 🌱 I’m currently learning **Testing**
-- 💬 Ask me about **music**
+- 🔭 **I'm attending the web-dev bootcamp @ [neue fische](https://www.neuefische.de/)**
+- 🌱 I’m currently learning **html, css and javascript**
+- 💬 Ask me anything about **gaming**
+- :video_game: Let's play together :)
 
-### Tech & Tools Preference
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+
+<p>
+ </br>
+
+
+<img hight="320" width="450" align="right" alt="GIF" src="https://i.pinimg.com/736x/69/c1/0a/69c10a92f0d43f66ac6478b3c1319042.jpg">
+
+
+<a href="https://steamcommunity.com/id/pendulumdayz/">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+</a>
+ </p>

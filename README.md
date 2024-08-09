@@ -1,9 +1,8 @@
 # Hi there 👋
 
-- 🔭 **I'm attending the web-dev bootcamp @ [neue fische](https://www.neuefische.de/)**
-- 🌱 I’m currently learning **html, css and javascript**
-- 💬 Ask me anything about **gaming**
-- :video_game: Let's play together :)
+- 🔭 **I attendet the web-dev bootcamp @ [neue fische](https://www.neuefische.de/)**
+- 🌱 I’m currently learning more and more about programming**
+- 💬 Ask me anything
 
 
 <p>

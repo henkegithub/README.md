@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 **I attendet the web-dev bootcamp @ [neue fische](https://www.neuefische.de/)**
+- 🔭 **I attended the web-dev bootcamp @ [neue fische](https://www.neuefische.de/)**
 - 🌱 I’m currently learning more and more about programming**
 - 💬 Ask me anything
 
